@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Allow: /sitemap.xml
+Allow: /robots.txt
 
 Sitemap: https://theninemattamy.com/sitemap.xml
